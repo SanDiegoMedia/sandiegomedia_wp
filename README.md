@@ -1,0 +1,2 @@
+# sandiegomedia_wp
+WordPress
